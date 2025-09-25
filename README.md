@@ -30,7 +30,3 @@ The design follows a modular approach with a datapath (adder, shifter, registers
 - Demonstrates reliable operation in both simulation and synthesis  
 - Resource-efficient design suitable for FPGA implementation  
 
-## How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/booth-multiplier.git
